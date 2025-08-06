@@ -44,6 +44,8 @@ import ctypes
 import sys
 import time
 
+# hello my name is alex and i own spectra
+
 def is_running_as_admin():
     try:
         return ctypes.windll.shell32.IsUserAnAdmin()
