@@ -44,8 +44,6 @@ import ctypes
 import sys
 import time
 
-# hello my name is alex and i own spectra
-
 def is_running_as_admin():
     try:
         return ctypes.windll.shell32.IsUserAnAdmin()
@@ -380,7 +378,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def test(ctx):
-    await ctx.send("Test Passed.")
+    await ctx.send("Test Passed you dumb bitch.")
 
 @bot.command()
 async def deactivate(ctx):
