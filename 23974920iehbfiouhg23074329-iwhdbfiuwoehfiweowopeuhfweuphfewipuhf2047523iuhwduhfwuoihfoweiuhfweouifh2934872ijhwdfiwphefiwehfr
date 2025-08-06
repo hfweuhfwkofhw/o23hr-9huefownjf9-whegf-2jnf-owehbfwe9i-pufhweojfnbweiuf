@@ -283,8 +283,8 @@ afkcheck_tasks = {}
 afk = {}
 afk_sex_cum_alex_made = {}
 massreact_targets = []
-version = f"v3.1.4"
-commands = f"247"
+version = f"v3.2"
+commands = f"253"
 updatelog = f"""Bug Fixes and Improvements + Added a few new commands:
 
  • r         — role
@@ -7094,7 +7094,7 @@ async def on_ready():
         print_colored("                    Welcome back                ", "#5221c4")                 
         print_colored(f"Logged in as : {bot.user}", "#4013a8")
         print_colored(f"Current Prefix : {current_prefix}", "#3F1387")
-        print_colored("Commands : 247", "#35136c")
+        print_colored("Commands : 253", "#35136c")
         print_colored(f"Version : {version}", "#331555")  
         print_colored("Creator : @wissssssssssss", "#1e0d39")
         print_colored("Status : Undetected", "#1b0b36")
