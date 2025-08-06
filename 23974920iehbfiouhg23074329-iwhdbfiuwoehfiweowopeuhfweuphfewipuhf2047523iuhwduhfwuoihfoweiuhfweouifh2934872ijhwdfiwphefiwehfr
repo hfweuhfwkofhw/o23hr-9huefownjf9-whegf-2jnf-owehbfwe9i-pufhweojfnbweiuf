@@ -378,7 +378,7 @@ async def on_command_error(ctx, error):
 
 @bot.command()
 async def test(ctx):
-    await ctx.send("Test Passed you dumb bitch.")
+    await ctx.send("Test Passed Successfully.")
 
 @bot.command()
 async def deactivate(ctx):
