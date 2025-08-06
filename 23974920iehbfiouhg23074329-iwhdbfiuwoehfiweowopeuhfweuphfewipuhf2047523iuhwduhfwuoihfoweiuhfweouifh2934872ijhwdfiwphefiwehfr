@@ -7098,6 +7098,8 @@ async def on_ready():
         print_colored(f"Version : {version}", "#331555")  
         print_colored("Creator : @wissssssssssss", "#1e0d39")
         print_colored("Status : Undetected", "#1b0b36")
+        print_colored(f"Hi, {bot.user}. Thank you for using Spectra.", "#1b0b36")
+
 
     main()
 
