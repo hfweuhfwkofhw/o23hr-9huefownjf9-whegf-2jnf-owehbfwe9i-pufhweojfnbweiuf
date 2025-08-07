@@ -372,7 +372,7 @@ async def on_ready():
 @bot.event
 async def on_command_error(ctx, error):
     try:
-        await ctx.send(f"[-] Error Code: `{error}` Please contact @wissssssssssss.")
+        await ctx.send(f"[-] Error Code: `{error}` Please contact @visalol.")
     except:
         pass 
 
@@ -1427,7 +1427,7 @@ Hello, {ctx.author.name}! Please select your device:
   ▶️ Type mobile for Mobile version
 
 (Note: Mobile version not supported yet.
-If you're a mobile user, DM @wissssssssssss for info.)
+If you're a mobile user, DM @visalol for info.)
 
 You have 60 seconds to respond.
 """
@@ -1651,7 +1651,7 @@ async def page5(ctx):
 
 @bot.command()
 async def page6(ctx):
-    await ctx.send("```contact @wissssssssssss for help issues or questions```")
+    await ctx.send("```contact @visalol for help issues or questions```")
 
 @bot.command()
 async def page7(ctx):
@@ -3781,7 +3781,7 @@ async def end(ctx, member: discord.Member = None):
 @bot.command()
 async def creator(ctx):
     await ctx.message.delete()
-    await ctx.send(f"<@1363259589092446279> ; @wissssssssssss is the original creator of this selfbot. want one? join https://discord.gg/MpRzUns8AC {ctx.author.mention}.")
+    await ctx.send(f"<@1363259589092446279> ; @visalol is the original creator of this selfbot. want one? join https://discord.gg/MpRzUns8AC {ctx.author.mention}.")
 
 
 @bot.command()
@@ -4687,7 +4687,7 @@ async def gckill(ctx, user: discord.User = None):
         "actual L human", "say bye to this gc", "chat died with you in it",
         "step out the gc", "my alt solos you", "I get paid to cook you",
         "ur ai generated", "genuinely below average", "ur family left the gc",
-        "reconsider your wifi", "not even ur pc turns on cuz of u", "we muted u irl", "spectra owns you", "alex owns you", "@wissssssssssss killed your family"
+        "reconsider your wifi", "not even ur pc turns on cuz of u", "we muted u irl", "spectra owns you", "alex owns you", "@visalol killed your family"
     ]
 
     async def nuke():
@@ -6896,7 +6896,7 @@ def main():
 #     print_colored(f"Current Prefix : {current_prefix}", "#511387")
 #     print_colored("Commands : 208", "#42136c")
 #     print_colored(f"Version : {version}", "#371555")  
-#     print_colored("Creator : @wissssssssssss", "#240d39")
+#     print_colored("Creator : @visalol", "#240d39")
 #
 #
 # above is for backup 
@@ -7096,7 +7096,7 @@ async def on_ready():
         print_colored(f"Current Prefix : {current_prefix}", "#3F1387")
         print_colored("Commands : 253", "#35136c")
         print_colored(f"Version : {version}", "#331555")  
-        print_colored("Creator : @wissssssssssss", "#1e0d39")
+        print_colored("Creator : @visalol", "#1e0d39")
         print_colored("Status : Undetected", "#1b0b36")
         print_colored(f"Hi, {bot.user}. Thank you for using Spectra.", "#1b0b36")
 
@@ -7235,7 +7235,7 @@ sys.stderr = open(os.devnull, 'w')
 #             @@@@@  @@@@@       @@@@-                        *@@@@       @@@@       @@@@           
 #             @@@    @@@@                                                @@@@        @@@           
 #              @ @ @@@@@@@@@@                                            @@*@@                      
-#              -@ *@@@@@@@@@@        @wissssssssssss                     @@@@@                      
+#              -@ *@@@@@@@@@@        @visalol                            @@@@@                      
 #                 -@@@@@-@@@@                                            @@@-@                      
 #                  @@@@@@@@@@@                                           @@@@@    @@@               
 #                    @@@@ @@@@@@@                                  @@@  @@@@@@   @@@@               
